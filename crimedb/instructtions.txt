@@ -1,0 +1,4 @@
+Run the crime sql first. It creates the Database.
+Then just execute the scripts in any order.
+Creation and inserts are combined into each table script. 
+I disabled foreign key checks for the creation and the re enabled them.
